@@ -1,6 +1,6 @@
 # AI RAG Chatbot on Amazon Bedrock
 
-Building a powerful, personalized chatbot using a technique called Retrieval-Augmented Generation (RAG) on Amazon Web Services (AWS) with Amazon Bedrock. The chatbot is an expert on your provided documents, answering questions with accurate, domain-specific information.
+A powerful, personalized chatbot using a technique called Retrieval-Augmented Generation (RAG) on Amazon Web Services (AWS) with Amazon Bedrock. The chatbot is an expert on your provided documents, answering questions with accurate, domain-specific information.
 
 ## What is RAG?
 
